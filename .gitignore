@@ -1,0 +1,4 @@
+ignore/
+*.class
+ArenasDBB/
+derby.log
